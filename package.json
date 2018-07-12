@@ -83,6 +83,6 @@
     "browsers": "last 1 version"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0"
+    "bootstrap": "4.1.1"
   }
 }
